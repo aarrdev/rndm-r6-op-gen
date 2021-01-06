@@ -49,13 +49,13 @@ const operators =
         armor: 1,
         difficulty: 1
     },
-    {
-        name: "Jager",
-        team: "Defenders",
-        speed: 2,
-        armor: 2,
-        difficulty: 2
-    },
+    //{
+        //name: "Jager",
+        //team: "Defenders",
+        //speed: 2,
+        //armor: 2,
+        //difficulty: 2
+    //},
     {
         name: "Rook",
         team: "Defenders",
